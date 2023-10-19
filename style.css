@@ -45,10 +45,14 @@ body * {
 #profile {
   text-align: center;
   padding: 24px;
+ 
 }
 
 #profile img {
   width: 112px;
+  border-radius: 50px;
+  height: 80x;
+ border: 5px solid white;
 }
 
 #profile p {
